@@ -1,0 +1,126 @@
+#title{
+  text-align: center;
+  color:white;
+  font-family: "Raleway", Sans-serif;
+  font-size: 40px;
+  margin: 0px;
+  padding: 10px;
+}
+#instr{
+  text-align: center;
+  color:white;
+  font-family: "Raleway", Sans-serif;
+  font-size: 15px;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+body{
+  text-align: center;
+  background-color: black;
+  font-family: Sans-Serif;
+  position: auto;
+  margin: 0px;
+  padding: 0px;
+}
+
+#score{
+  color:white;
+}
+#counters{
+  color:white;
+}
+
+#topHalf
+{ 
+  margin: 0px;
+  padding: 0px;
+  background-color: purple;
+  border: solid white;
+  height: 30%;
+}
+
+#bottomHalf
+{ 
+  margin: 0px;
+  padding: 0px;
+  background-color: purple;
+  border: solid white;
+  height: 30%;
+}
+
+.square1{
+  top: 42%;
+  left: 75%;
+  height: 150px;
+  width: 150px;
+  background-color: red;
+  margin:0px; 
+  position: absolute;
+}
+
+
+.square2{
+  top: 42%;
+  left: 55%;
+  height: 150px;
+  width: 150px;
+  background-color: blue;
+  position: absolute;
+}
+
+.square3{
+  top: 42%;
+  left: 35%;
+  height: 150px;
+  width: 150px;
+  background-color: green;
+  position: absolute;
+}
+.square4{
+  top: 42%;
+  left: 15%;
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  position: absolute;
+}
+.square5{
+  top: 72%;
+  left: 75%;
+  height: 150px;
+  width: 150px;
+  background-color: orange;
+  position: absolute;
+}
+.square6{
+  top: 72%;
+  left: 55%;
+  height: 150px;
+  width: 150px;
+  background-color: purple;
+  position: absolute;
+}
+.square7{
+  top: 72%;
+  left: 35%;
+  height: 150px;
+  width: 150px;
+  background-color: pink;
+  position: absolute;
+}
+.square8{
+  top: 72%;
+  left: 15%;
+  height: 150px;
+  width: 150px;
+  background-color: magenta;
+  position: absolute;
+}
+.change{
+  color: white;
+  background-color: purple;
+  border: 2px solid white;
+  padding: 5px;
+  margin: 8px;
+}
